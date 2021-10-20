@@ -1,2 +1,2 @@
 # impacttest
-GHello World
+Hello World
